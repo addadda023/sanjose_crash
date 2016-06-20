@@ -1,8 +1,11 @@
 %% Readme
+These are the SQL files I used to postprocess the data from postgresql database. 
+
+
 
 
 -----
-Pushing to git
+Pushing to git. For future reference
 -----
 git init
 

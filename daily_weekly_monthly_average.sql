@@ -1,3 +1,4 @@
+
 SELECT DISTINCT accidentdatetime, accident_year, accident_year_month, accident_year_week, accident_day
 	,accident_per_day
 	,round(cast(accident_per_week as decimal)/num_days_in_week,3) weekly_average
